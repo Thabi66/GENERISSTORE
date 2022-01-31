@@ -1,0 +1,10 @@
+RHUDE Thriller Jacket,BMDD001,image\\pic1.jpg,15000.00
+RHUDE Sweatpants,DD001,image\\pic2.jpg,2200.00
+Laker Jordan 1s,DD002,image\\pic3.jpg,1999.00
+SUPREME Blazer,DD003,image\\pic4.jpg,24000.00
+Nike & Commes & Supreme AF1,DD004,image\\pic5.jpg,2500.00
+Coogi Sweater,DD005,image\\pic6.jpg,19000.00
+Lacoste Golfer,DD006,image\\pic7.jpg,3000.00
+Prada Foreigner Coat,DD007,image\\pic8.jpg,17500.00
+ChopScrew T-Shirt,DD008,image\\pic9.jpg,4900.00
+Cactus Jack x Nike Hoodie,DD009,image\\pic10.jpg,5400.00
